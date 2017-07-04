@@ -1,0 +1,19 @@
+{
+  "name": "aa",
+  "version": "1.0.0",
+  "description": "这是我的第一次的Vue工程项目 git add README.md git commit -m \"first commit\" git push -u origin master",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GZQbutterfly/Vue-Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GZQbutterfly/Vue-Test/issues"
+  },
+  "homepage": "https://github.com/GZQbutterfly/Vue-Test#readme"
+}
