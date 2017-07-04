@@ -4,11 +4,18 @@
   "description": "这是我的第一次的Vue工程项目 git add README.md git commit -m \"first commit\" git push -u origin master",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack --config webpack.config.js --progress --display-modules --colors --display-reasons"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/GZQbutterfly/Vue-Test.git"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.4",
+    "gulp": "^3.9.1",
+    "style-loader": "^0.18.2",
+    "webpack": "^2.6.1"
   },
   "author": "",
   "license": "ISC",
