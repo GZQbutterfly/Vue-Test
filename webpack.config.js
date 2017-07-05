@@ -2,7 +2,7 @@ console.log('webpack.config.js');
 
 
 
-
+console.log('webpack.config.js');
 
 
 module.exports = {
